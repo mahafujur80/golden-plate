@@ -3,6 +3,9 @@
 
 Golden Plate is a modern and responsive restaurant website built with React, Tailwind CSS, and React Router. It features a clean design with a beautiful cream, gold, and brown color combination.
 
+## 🔗 Live Link 
+-**Link** https://golden-plate-mrn.netlify.app
+
 ## 🌐 Pages
 
 - **Home** – Hero section, popular dishes, why choose us, and special offers.
